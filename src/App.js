@@ -36,7 +36,7 @@ const App = () => {
                 <i className="fab fa-facebook" /> Log in with Facebook
               </a>
               <a className="password-reset" href="#">
-                Forgot password?
+                Forgot password??
               </a>
             </form>
             <div className="sign-up">

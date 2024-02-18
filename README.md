@@ -1,3 +1,6 @@
+![Screenshot 2024-01-21 214927](https://github.com/vvkulkarni360/insta-clone/assets/119601667/eb40ea52-4cab-48f7-a124-9f286255005e)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
